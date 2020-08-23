@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "public"]
+	path = public
+	url = https://github.com/tiagoandresvaz/tiagoandresvaz.github.io.git
+	branch = master
