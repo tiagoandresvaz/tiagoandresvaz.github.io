@@ -1,10 +1,5 @@
 # About Me
 
-
-{{< admonition tip >}}
-:(far fa-bookmark fa-fw): Bookmark this page for easy future reference about me!
-{{< /admonition >}}
-
 I am married, 43 years old, two kids and living in the southern city of Porto Alegre, RS - Brazil.  
 
 I've being working with computer science in hospitals and healthcare organizations since 1995. 
@@ -18,8 +13,5 @@ Since my graduation in Computer Science I am motivated to keep my tech skill upd
 
 Always interested in people, teams & talent management, marketing, automation, telecom, information security, enterprise software development and software migration projects. 
 
-Still coding at home for fun and personal improvement in Pascal, Java, Javascript, SQL, C++ and R.
+Still coding at home for personal improvement in Java, Javascript, Typescript, SQL, C++, R and Python.
 
-Currently coding Python and Typescript/Javascript;
-
-http://lattes.cnpq.br/3125940334707048 
