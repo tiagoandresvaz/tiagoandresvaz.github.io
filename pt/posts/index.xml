@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Tiago Andres Vaz: Professional Portfolio in Computer Science and Healthcare</title>
+        <link>https://tiagoandresvaz.github.io/pt/posts/</link>
+        <description>All Posts | Tiago Andres Vaz: Professional Portfolio in Computer Science and Healthcare</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="https://tiagoandresvaz.github.io/pt/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Experiência Profissional</title>
+    <link>https://tiagoandresvaz.github.io/pt/experience/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://tiagoandresvaz.github.io/pt/experience/</guid>
+    <description><![CDATA[Meu curriculo vitae]]></description>
+</item></channel>
+</rss>
