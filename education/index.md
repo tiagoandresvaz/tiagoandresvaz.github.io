@@ -14,6 +14,8 @@ Here you will find:
 
 * PhD candidate in Epidemiology - FAMED/UFRGS (Faculdade de Medicina, Universidade Federal do Rio Grande do Sul): 2018-2021
 
+http://lattes.cnpq.br/3125940334707048 
+
 ### Executive Education
 
 * MIT Certificate in Management and Leadership (Sloan Management School): 2013-2015
