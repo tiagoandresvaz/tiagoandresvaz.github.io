@@ -2,7 +2,7 @@
 
 
 {{< admonition tip >}}
-:(far fa-bookmark fa-fw): Only a few words about myself
+:(far fa-bookmark fa-fw): a few more words about myself
 {{< /admonition >}}
 
 I am married, 43 years old, two kids and living in the southern city of Porto Alegre, RS - Brazil.  
