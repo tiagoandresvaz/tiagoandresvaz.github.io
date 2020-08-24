@@ -7,10 +7,17 @@
             <atom:link href="https://tiagoandresvaz.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Experiência Profissional</title>
+    <link>https://tiagoandresvaz.github.io/pt/education/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://tiagoandresvaz.github.io/pt/education/</guid>
+    <description><![CDATA[Meu curriculum vitae]]></description>
+</item><item>
+    <title>Experiência Profissional</title>
     <link>https://tiagoandresvaz.github.io/pt/experience/</link>
     <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://tiagoandresvaz.github.io/pt/experience/</guid>
-    <description><![CDATA[Meu curriculo vitae]]></description>
+    <description><![CDATA[Meu curriculum vitae]]></description>
 </item></channel>
 </rss>

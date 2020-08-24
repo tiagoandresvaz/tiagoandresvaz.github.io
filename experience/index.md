@@ -8,7 +8,7 @@ I hope that my readers here, are also creating amazing software!
 
 {{< admonition note "Special Motivation" >}}
 I have built this website to learn Hugo (a very very nice static website creator coded using "Go").
-This site is published at **gihub.io**, a free place to host web content like this!
+This site is published at **github.io**, a free place to host web content like this!
 {{< /admonition >}}
 
 Here you will find:
@@ -22,7 +22,7 @@ Tailored description of my work at specific projects and job positions.
 --> Hospital de Clínicas de Porto Alegre (2009 - now) 
 
 Project Manager: from 2009 to 2012
-President Advisor: from 2013 until now. 
+President Advisor: from 2012 until now. 
 
 Experience with:
 
@@ -80,7 +80,7 @@ My know-how using information technology, including languages and tools that I a
 5. PostgreSQL and MongoDB basic administration (20 years working with databases);
 6. Software Development with TypeScript and Node.js (I am updated with new languages skills);
 7. Epidemiology and statistics literacy (to talk with scientists and experts);
-8. Agile, DevOps, containers and cloautomation (to develop adding value);
+8. Agile, DevOps, containers and cloud automation (to develop adding value);
 
 {{< admonition tip "Activities" >}}
 Instead of a attendance list, I will give short comments about congresses, conferences and workshops that I am participating thru specific posts on twitter @tiagoandresvaz
@@ -99,9 +99,9 @@ Some thumbs and videos that showcase my professional portfolio.
 
 My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". The implementation was done using Typescript, Python and Node.js and involved many kinds of validations and complex epidemiology modelling. 
 
-To accomplish this I had to set cloud enviroments (dev and production) with Continuous Integration and Delivery of software, so staticians could work on local models.
+To accomplish this I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
 
-Our enviroment was equiped with a data parser, to capture data from our local governament dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
+Our environment was equipped with a data parser, to capture data from our local government dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
 
 This was a work group with collaboration from statistics, medicine and computer science teachers from the federal university along with state authorities. We had  supplied decisive information for beds and ICU planning during the pandemics in the State Of Rio Grande do Sul in Brazil.
 
