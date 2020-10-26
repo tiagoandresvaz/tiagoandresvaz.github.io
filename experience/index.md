@@ -13,9 +13,50 @@ This site is published at **github.io**, a free place to host web content like t
 
 Here you will find:
 
+### Work samples
+Some thumbs and videos that showcase my professional portfolio. 
+
+#### Covid-19 Scenarios (by Neherlab)
+
+My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". The implementation was done using Typescript, Python and Node.js and involved many kinds of validations and complex epidemiology modelling. 
+
+To accomplish this I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
+
+Our environment was equipped with a data parser, to capture data from our local government dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
+
+This was a work group with collaboration from statistics, medicine and computer science teachers from the federal university along with state authorities. We had  supplied tiatidecisive information for beds and ICU planning during the pandemics in the State Of Rio Grande do Sul in Brazil.
+
+References: 
+{{< link "https://www.covid19-scenarios.org" >}}
+
+
+{{< youtube sv5T7MPKE5A >}}
+
+#### AGHUse (by Hospital de Clínicas de Porto Alegre)
+
+AGHUse is a complete Hospital Information System (HIS) and Electronic Health Records (EHR). I am the former Project Manager and Technical Leader. Since the very first day from this project I am an observer of the great progress that this project has being delivering. In 2016, we have put it as the most adopted university hospital software in Brasil and new public hospitals are running it every month. 
+
+Now the project is mantained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, states and other universities. Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal governament as a blueprint for a digital healthcare business model.
+
+
+{{< youtube MZocqXWM-Ig >}}
+
+References: 
+{{< link "https://www.hcpa.edu.br" >}}
+
+#### PortalQualis (by Qualis Infectologia)
+
+At Qualis we are developing new technologies and solutions for hospitals to revamp  infection control and other infection related problems.
+
+{{< youtube o4Nq3GmwRoM >}}
+
+References: 
+{{< link "https://www.portalqualis.com.br" >}}
+
+
 ### My Resume {#my-resume}
 
-Tailored description of my work at specific projects and job positions.
+Short description of my work at specific projects and job positions.
 
 **My enterprise healthcare experience**
 
@@ -90,36 +131,6 @@ Instead of a attendance list, I will give short comments about congresses, confe
 {{< admonition tip "Letters of recommendation" >}}
 Personal references and teammates testimonials are managed at LinkedIn. 
 {{< /admonition >}}
-
-
-### Work samples
-Some thumbs and videos that showcase my professional portfolio. 
-
-#### Covid-19 Scenarios (by Neherlab)
-
-My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". The implementation was done using Typescript, Python and Node.js and involved many kinds of validations and complex epidemiology modelling. 
-
-To accomplish this I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
-
-Our environment was equipped with a data parser, to capture data from our local government dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
-
-This was a work group with collaboration from statistics, medicine and computer science teachers from the federal university along with state authorities. We had  supplied decisive information for beds and ICU planning during the pandemics in the State Of Rio Grande do Sul in Brazil.
-
-{{< youtube sv5T7MPKE5A >}}
-
-#### AGHUse (by Hospital de Clínicas de Porto Alegre)
-
-AGHUse is a complete Hospital Information System (HIS) and Electronic Health Records (EHR) that I had the opportunity to co-found and stabilish as the most adopted university hospital software in Brasil. Now the project is mantained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, states and other universities. Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal governament as a blueprint for a digital healthcare business model.
-
-
-{{< youtube MZocqXWM-Ig >}}
-
-#### PortalQualis (by Qualis Infectologia)
-
-At Qualis we are developing new technologies and solutions for hospitals to revamp  infection control and other infection related problems.
-
-{{< youtube o4Nq3GmwRoM >}}
-
 
 
 ### Other Information 
