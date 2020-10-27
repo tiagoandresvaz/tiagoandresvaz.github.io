@@ -11,9 +11,12 @@
     <pubDate>Fri, 01 May 2020 22:57:40 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://tiagoandresvaz.github.io/experience/</guid>
-    <description><![CDATA[During Covid-19 pandemics I had to compile my work as a Computer Scientist. To share it with other people around the world in projects that I am (or might be) involved.
-I hope that my readers here, are also creating amazing software!
-Special Motivation  I have built this website to learn Hugo (a very nice static website creator coded using &ldquo;Go&rdquo;). This site is published at github.io, a free place to host web content like this!]]></description>
+    <description><![CDATA[I hope that my readers here, are also creating amazing software!
+Special Motivation  I&rsquo;ve built this website to learn Hugo (the static website creator coded using &ldquo;Go&rdquo; language).
+This site is published at github.io, a free place to host web content like this!
+   Here you will find:
+Work samples Some thumbs and videos that showcase my professional portfolio.
+Covid-19 Scenarios (by Neherlab) My contribution to the model, was to implement a new flux in the SIR model called &ldquo;Palliative Flux&rdquo;.]]></description>
 </item><item>
     <title>Academic and Executive Education</title>
     <link>https://tiagoandresvaz.github.io/education/</link>

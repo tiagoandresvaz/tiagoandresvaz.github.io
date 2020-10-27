@@ -1,14 +1,12 @@
 # Experience and Projects Done
 
 
-
-During Covid-19 pandemics I had to compile my work as a Computer Scientist. To share it with other people around the world in projects that I am (or might be) involved.  
-
 I hope that my readers here, are also creating amazing software!
 
 {{< admonition note "Special Motivation" >}}
-I have built this website to learn Hugo (a very nice static website creator coded using "Go").
-This site is published at **github.io**, a free place to host web content like this!
+I've built this website to learn **Hugo** (the static website creator coded using "Go" language).
+
+This site is published at github.io, a free place to host web content like this!
 {{< /admonition >}}
 
 Here you will find:
@@ -18,9 +16,9 @@ Some thumbs and videos that showcase my professional portfolio.
 
 #### Covid-19 Scenarios (by Neherlab)
 
-My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". The implementation was done using Typescript, Python and Node.js and involved many kinds of validations and complex epidemiology modelling. 
+My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". Coding with Typescript, Python and Node.js and involving many kinds of data validations and complex epidemiology modelling. 
 
-To accomplish this I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
+To accomplish this, I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
 
 Our environment was equipped with a data parser, to capture data from our local government dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
 
@@ -34,17 +32,17 @@ References:
 
 #### AGHUse (by Hospital de Clínicas de Porto Alegre)
 
-AGHUse is a complete Hospital Information System (HIS). 
+AGHUse is a complete EHR (Electronic Health Record). 
 
-I am the former Project Manager and Technical Leader. 
+I am the former Project Manager and Technical Leader, and latter the IT Executive in charge for rolling out it on the first 23 hospitals, including small, medium and large hospitals. 
 
 Since the very first day I am an observer of the great progress that the project and his branches are delivering across the country. In 2016, we have put it as the most adopted university hospital software in Brasil. In 2017 the project received a Public Innovation Award from ENAP. 
 
-Now the project is maintained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, states and other universities. 
+Now the project is maintained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, local governments and other universities. 
 
 {{< youtube MZocqXWM-Ig >}}
 
-Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal government in 2009 as a blueprint for a digital healthcare business model.
+Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal government in 2009 as a blueprint for a digital healthcare business model. Now its software is shared across the country.
 
 References: 
 {{< link "https://www.hcpa.edu.br" >}}
