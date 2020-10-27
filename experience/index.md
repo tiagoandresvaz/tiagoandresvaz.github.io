@@ -1,4 +1,4 @@
-# Professional Experience
+# Experience and Projects Done
 
 
 
@@ -7,7 +7,7 @@ During Covid-19 pandemics I had to compile my work as a Computer Scientist. To s
 I hope that my readers here, are also creating amazing software!
 
 {{< admonition note "Special Motivation" >}}
-I have built this website to learn Hugo (a very very nice static website creator coded using "Go").
+I have built this website to learn Hugo (a very nice static website creator coded using "Go").
 This site is published at **github.io**, a free place to host web content like this!
 {{< /admonition >}}
 
@@ -24,7 +24,7 @@ To accomplish this I had to set cloud environments (dev and production) with Con
 
 Our environment was equipped with a data parser, to capture data from our local government dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
 
-This was a work group with collaboration from statistics, medicine and computer science teachers from the federal university along with state authorities. We had  supplied tiatidecisive information for beds and ICU planning during the pandemics in the State Of Rio Grande do Sul in Brazil.
+This was a work group with collaboration from statistics, medicine and computer science teachers from the federal university along with state authorities.
 
 References: 
 {{< link "https://www.covid19-scenarios.org" >}}
@@ -34,19 +34,24 @@ References:
 
 #### AGHUse (by Hospital de Clínicas de Porto Alegre)
 
-AGHUse is a complete Hospital Information System (HIS) and Electronic Health Records (EHR). I am the former Project Manager and Technical Leader. Since the very first day from this project I am an observer of the great progress that this project has being delivering. In 2016, we have put it as the most adopted university hospital software in Brasil and new public hospitals are running it every month. 
+AGHUse is a complete Hospital Information System (HIS). 
 
-Now the project is mantained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, states and other universities. Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal governament as a blueprint for a digital healthcare business model.
+I am the former Project Manager and Technical Leader. 
 
+Since the very first day I am an observer of the great progress that the project and his branches are delivering across the country. In 2016, we have put it as the most adopted university hospital software in Brasil. In 2017 the project received a Public Innovation Award from ENAP. 
+
+Now the project is maintained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, states and other universities. 
 
 {{< youtube MZocqXWM-Ig >}}
+
+Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal government in 2009 as a blueprint for a digital healthcare business model.
 
 References: 
 {{< link "https://www.hcpa.edu.br" >}}
 
-#### PortalQualis (by Qualis Infectologia)
+#### Infection Surveillance Assistant (by Qualis Infectologia)
 
-At Qualis we are developing new technologies and solutions for hospitals to revamp  infection control and other infection related problems.
+ISA is a robot. Made by automated artificial intelligence running at Amazon AWS. Provides solutions for hospitals to revamp infection control, help schools preventing outbreaks and hotels auditing protocols. In the future, we hope ISA will be an expert in infection related problems.
 
 {{< youtube o4Nq3GmwRoM >}}
 
@@ -112,7 +117,7 @@ Consulting
 
 My know-how using information technology, including languages and tools that I am using now. 
  
-**My Tech Skills**
+**Tech Skills**
 
 1. Artificial Intelligence (from theory to product development); 
 2. Machine Learning with Python (understanding the caveats); 

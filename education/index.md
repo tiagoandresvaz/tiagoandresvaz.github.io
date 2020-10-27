@@ -1,14 +1,13 @@
 # Academic and Executive Education
 
 
-**Natural Motivation To Learn**
+**Motivation**
 
 Since high school times I am coding and thinking software to solve problems. There is always a page in blank... 
 
 **Culture**
 
 My family culture believes that investing in education is the path to follow with confidence and altitude in your professional career. So, I have tracked both academic and executive education accomplishments. 
-
 
 Here you will find:
 
