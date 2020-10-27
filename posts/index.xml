@@ -10,11 +10,10 @@
     <author>Author</author>
     <guid>https://tiagoandresvaz.github.io/experience/</guid>
     <description><![CDATA[I hope that my readers here, are also creating amazing software!
-Special Motivation  I&rsquo;ve built this website to learn Hugo (the static website creator coded using &ldquo;Go&rdquo; language).
-This site is published at github.io, a free place to host web content like this!
-   Here you will find:
+Here you will find:
 Work samples Some thumbs and videos that showcase my professional portfolio.
-Covid-19 Scenarios (by Neherlab) My contribution to the model, was to implement a new flux in the SIR model called &ldquo;Palliative Flux&rdquo;.]]></description>
+Covid-19 Scenarios (by Neherlab) My contribution to the model, was to implement a new flux in the SIR model called &ldquo;Palliative Flux&rdquo;. Coding with Typescript, Python and Node.js and involving many kinds of data validations and complex epidemiology modelling.
+To accomplish this, I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.]]></description>
 </item><item>
     <title>Academic and Executive Education</title>
     <link>https://tiagoandresvaz.github.io/education/</link>

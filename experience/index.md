@@ -3,12 +3,6 @@
 
 I hope that my readers here, are also creating amazing software!
 
-{{< admonition note "Special Motivation" >}}
-I've built this website to learn **Hugo** (the static website creator coded using "Go" language).
-
-This site is published at github.io, a free place to host web content like this!
-{{< /admonition >}}
-
 Here you will find:
 
 ### Work samples
@@ -56,6 +50,11 @@ ISA is a robot. Made by automated artificial intelligence running at Amazon AWS.
 References: 
 {{< link "https://www.portalqualis.com.br" >}}
 
+{{< admonition note "Special Motivation" >}}
+I've built this website to learn **Hugo** (the static website creator coded using "Go" language).
+
+This site is published at github.io, a free place to host web content like this!
+{{< /admonition >}}
 
 ### My Resume {#my-resume}
 
