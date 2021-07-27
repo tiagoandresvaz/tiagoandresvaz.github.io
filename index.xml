@@ -1,32 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tiago Andres Vaz: Professional Portfolio in Computer Science and Healthcare</title>
-        <link>https://tiagoandresvaz.github.io/</link>
-        <description>Professional portfolio in healthcare software development</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 01 May 2020 22:57:40 &#43;0800</lastBuildDate>
-            <atom:link href="https://tiagoandresvaz.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Experience and Projects Done</title>
-    <link>https://tiagoandresvaz.github.io/experience/</link>
-    <pubDate>Fri, 01 May 2020 22:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://tiagoandresvaz.github.io/experience/</guid>
-    <description><![CDATA[I hope that my readers here, are also creating amazing software!
-Here you will find:
-Work samples Some thumbs and videos that showcase my professional portfolio.
-Covid-19 Scenarios (by Neherlab) My contribution to the model, was to implement a new flux in the SIR model called &ldquo;Palliative Flux&rdquo;. Coding with Typescript, Python and Node.js and involving many kinds of data validations and complex epidemiology modelling.
-To accomplish this, I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.]]></description>
-</item><item>
-    <title>Academic and Executive Education</title>
-    <link>https://tiagoandresvaz.github.io/education/</link>
-    <pubDate>Fri, 01 May 2020 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://tiagoandresvaz.github.io/education/</guid>
-    <description><![CDATA[Motivation
-Since high school times I am coding and thinking software to solve problems. There is always a page in blank&hellip;
-Culture
-My family culture believes that investing in education is the path to follow with confidence and altitude in your professional career. So, I have tracked both academic and executive education accomplishments.
-Here you will find:
-Academic Titles   Bachelor in Computer Science - PUC-RS (Pontifícia Universidade Católica do Rio Grande do Sul): 1995-2002]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
