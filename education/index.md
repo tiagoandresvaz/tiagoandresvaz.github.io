@@ -17,7 +17,7 @@ Here you will find:
 
 * Master in Clinical Research - HCPA/UFRGS (Hospital de Clínicas de Porto Alegre, Universidade Federal do Rio Grande do Sul): 1995-2002
 
-* PhD candidate in Epidemiology - FAMED/UFRGS (Faculdade de Medicina, Universidade Federal do Rio Grande do Sul): 2018-2021
+* PhD in Epidemiology - FAMED/UFRGS (Faculdade de Medicina, Universidade Federal do Rio Grande do Sul): 2018-2021
 
 http://lattes.cnpq.br/3125940334707048 
 
