@@ -1,16 +1,57 @@
 # Experience and Projects Done
 
-
 I hope that my readers here, are also creating amazing software!
 
 Here you will find:
 
 ### Work samples
+
 Some thumbs and videos that showcase my professional portfolio. 
+
+
+
+#### Covid Vaccines Effectiveness (CoVE) 
+
+https://www.uu.nl/en/research/eu-pepv-research-network/effectiveness-of-heterologous-and-booster-covid-19-vaccination-in-5-european-countries
+
+
+As Core Scientific Lead, I designed and coordinated this international project involving multiple European universities to evaluate the effectiveness of heterologous and booster COVID-19 vaccination schedules in five countries. Our research used a cohort approach, focusing on both children and adults who completed a full primary vaccination regimen.
+
+I led the development of a robust data pipeline, ensuring data from all partners adhered to a synthetic common data model and harmonized semantic libraries. This enabled consistent analysis and interpretation of health data across diverse international contexts.
+
+**Participating Organisations:**
+- Utrecht University, The Netherlands (Consortium Lead)
+- AEMPS, Spain (Coordinator)
+- UMC Utrecht, The Netherlands
+- VAC4EU, Belgium
+- Democritus University of Thrace, Greece
+- APHP, France
+- ARS, Italy
+- INSPIRE, Italy
+- SoSeTe-Pedianet, Italy
+- Rīga Stradiņš University, Latvia
+- PHARMO Institute, The Netherlands
+- RIVM, The Netherlands
+- IACS, Spain
+- IDIAPJGol, Spain
+- RTI Health Solutions, Spain
+- Servicio Navarro de Salud, Spain
+- Teamit Institute, Spain
+- DSRU, UK
+
+**Project Documentation:**
+- [Study Protocol (approved by the European Union)](https://catalogues.ema.europa.eu/sites/default/files/document_files/D2_StudyProtocol_v0.4_ROC12_FINAL_20220615.pdf)
+
+- [CoVE Project Repository (Zenodo)](https://zenodo.org/records/7858776)
+
+**Key Results:**
+- [Effectiveness of homologous/heterologous booster COVID-19 vaccination schedules against severe illness in general population and clinical subgroups in three European countries (PubMed)](https://pubmed.ncbi.nlm.nih.gov/37858451/)
+
+
 
 #### Covid-19 Scenarios (by Neherlab)
 
-My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". Coding with Typescript, Python and Node.js and involving many kinds of data validations and complex epidemiology modelling. 
+My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". Coding models  with Python, amd UI with Typescript. React and Node.js. The model in Python was coded involving many kinds of statistics and complex epidemiology modelling. 
 
 To accomplish this, I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
 
@@ -25,14 +66,13 @@ References:
 {{< youtube sv5T7MPKE5A >}}
 
 #### AGHUse (by Hospital de Clínicas de Porto Alegre)
+Co-author of the registered GPL software at INPI, AGHUse is a comprehensive EHR (Electronic Health Record) and ERP (Enterprise Resource Planning) system designed for healthcare providers of all types.
 
-AGHUse is a complete EHR (Electronic Health Record). 
+I initiated the project and named it AGHUse together with Elisa Kopstein from the communications team. after the original AGHU "mother" project and the old AGH "father" project. As the original Technical Leader and later IT Executive, I led the rollout in a large 1,000-bed hospital, covering primary care, emergency, maternity, psychiatry, heart transplants, and all the advanced features needed for such a complex environment.
 
-I am the former Project Manager and Technical Leader, and latter the IT Executive in charge for rolling out it on the first 23 hospitals, including small, medium and large hospitals. 
+From the beginning, I have witnessed the project's growth and its positive impact across Brazil. By 2016, AGHUse became the most widely adopted university hospital software in the country. In 2017, it received the Public Innovation Award from ENAP.
 
-Since the very first day I am an observer of the great progress that the project and his branches are delivering across the country. In 2016, we have put it as the most adopted university hospital software in Brasil. In 2017 the project received a Public Innovation Award from ENAP. 
-
-Now the project is maintained by the "Comunidade AGHUse: that includes partners like UNICAMP, Army, AirForce, local governments and other universities. 
+Today, the project is maintained by the "Comunidade AGHUse," which includes partners such as UNICAMP, the Army, Air Force, local governments, and other universities.
 
 {{< youtube MZocqXWM-Ig >}}
 
@@ -41,9 +81,22 @@ Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal g
 References: 
 {{< link "https://www.hcpa.edu.br" >}}
 
+#### AGHU (by EBSERH - Empresa Brasileira de Servicos Hospitalares)
+
+AGHU is a complete EHR (Electronic Health Record) designed to fit University Hospitals in all 5 regions from Brazil. 
+
+From South to North, I was the former Technical Leader, co-authored the source code in Java and latter became the IT Executive in charge for rolling out it on the first 23 hospitals, including small, medium and large hospitals. 
+
+Now the project is maintained by EBSERH in partnership with a community formed by multiple universities. 
+
+References: 
+{{< link "https://www.ebserh.br" >}}
+
 #### Infection Surveillance Assistant (by Qualis Infectologia)
 
-ISA is a robot. Made by automated artificial intelligence running at Amazon AWS. Provides solutions for hospitals to revamp infection control, help schools preventing outbreaks and hotels auditing protocols. In the future, we hope ISA will be an expert in infection related problems.
+As head of AI and data expert, Ive build the AI mode to implement ISA - Infection Surveillance Assistant. Made by automated artificial intelligence running at Amazon AWS. Provides solutions for hospitals to revamp infection control. 
+
+In the future, we hope ISA will be an expert in infection related problems.
 
 {{< youtube o4Nq3GmwRoM >}}
 
@@ -56,87 +109,50 @@ I've built this website to learn **Hugo** (the static website creator coded usin
 This site is published at github.io, a free place to host web content like this!
 {{< /admonition >}}
 
-### My Resume {#my-resume}
+### My enterprise experience {#my-resume}
 
 Short description of my work at specific projects and job positions.
 
-**My enterprise healthcare experience**
+**KHC – Amsterdam Center of Excellence (2009–2022):**  
+Working on global projects unifying AI and data governance using advanced Stewardship and Data Quality tools. Collaborating with multidisciplinary teams in the US, Europe and Asia in a leading Forbes 500 company.
 
---> Hospital de Clínicas de Porto Alegre (2009 - now) 
+**Hospital de Clínicas de Porto Alegre (2009–2022):**  
+Led digital transformation and large-scale healthcare IT projects at one of Brazil’s premier university hospitals, focusing on EHR implementation, data governance, and operational excellence.
 
-Project Manager: from 2009 to 2012
-President Advisor: from 2012 until now. 
+**Bunge Ltd (2003–2009):**  
+Gained valuable experience in the agribusiness sector, working on technology solutions that supported logistics, supply chain, and business operations for a global food company.
+
+**Claro Telecom (1999–2000):**  
+Developed and maintained telecom systems, contributing to the growth and modernization of one of Brazil’s largest telecommunications providers.
+
+**Petroleo Ipiranga SA (1996–1997):**  
+Early career experience in the energy sector, supporting IT infrastructure and business processes for a major petroleum company.
 
 Experience with:
 
-1. Data Governance; 
-2. Product Design and Development;
+1. Unified AI and Data Governance; 
+2. AI Product Design and Development;
 3. Software delivery, maintenance, and development;
 4. Enterprise change management;
-5. Leadership of technical teams;
-6. Research & Development with Data Science;
-
---> Qualis Soluções em Infectologia  (2016 - now) 
-
-Head of A.I.
-
-7. Planning;
-8. Innovation (Artificial Intelligence Products);
-9. Entrepreneurship;
-10. Negotiation with customers and suppliers;
-
---> DATAWALL Business Intelligence  (2015 - now) 
-
-Consulting
-
-11. Product Manager;
-12. Lecturer;
-13. International business partnership;
-
---> Cardiométodo Medicina Diagnóstica  (2003-2011) 
-
-Consulting
-
-14. Product design, and software development;
-
---> Unimed Porto Alegre (2003-2009) 
-
-Consulting
-
-15. Mobile development;
-16. Strategic Planning;
+5. Leadership of technical teams and C level advisory;
+6. Negotiation with customers and suppliers;
+7. International partnerships;
+8. Consulting;
+9. Strategic Planning;
+10. Entrepreneurship;
 
 {{< admonition tip "More details and past works" >}}
---> Prior works and details about my portfolio are managed in my LinkedIn account!
+--> Details about my CV are managed in my LinkedIn account!
 {{< /admonition >}}
-
-### List of skills{#list-of-skills}
-
-My know-how using information technology, including languages and tools that I am using now. 
- 
-**Tech Skills**
-
-1. Artificial Intelligence (from theory to product development); 
-2. Machine Learning with Python (understanding the caveats); 
-3. Data Science engineering (ETL and large data manipulation basics);
-4. AWS and Google Cloud administration (to save money and stay safe);
-5. PostgreSQL and MongoDB basic administration (20 years working with databases);
-6. Software Development with TypeScript and Node.js (I am updated with new languages skills);
-7. Epidemiology and statistics literacy (to talk with scientists and experts);
-8. Agile, DevOps, containers and cloud automation (to develop adding value);
 
 {{< admonition tip "Activities" >}}
 Instead of a attendance list, I will give short comments about congresses, conferences and workshops that I am participating thru specific posts on twitter @tiagoandresvaz
 {{< /admonition >}}
 
-
 {{< admonition tip "Letters of recommendation" >}}
 Personal references and teammates testimonials are managed at LinkedIn. 
 {{< /admonition >}}
 
-
 ### Other Information 
 
 If you need additional information about accomplishments from my resume, we can have a coffee and have a nice talk by DM on Twitter: @tiagoandresvaz 
-
-
