@@ -68,7 +68,7 @@ References:
 #### AGHUse (by Hospital de Clínicas de Porto Alegre)
 Co-author of the registered GPL software at INPI, AGHUse is a comprehensive EHR (Electronic Health Record) and ERP (Enterprise Resource Planning) system designed for healthcare providers of all types.
 
-I initiated the project and named it AGHUse together with Elisa Kopstein from the communications team. after the original AGHU "mother" project and the old AGH "father" project. As the original Technical Leader and later IT Executive, I led the rollout in a large 1,000-bed hospital, covering primary care, emergency, maternity, psychiatry, heart transplants, and all the advanced features needed for such a complex environment.
+I initiated the project and named it AGHUse together with the communications team. after the original AGHU "mother" project and the old AGH "father" project. As the original Technical Leader and later IT Executive, I led the rollout in a large 1,000-bed hospital, covering primary care, emergency, maternity, psychiatry, heart transplants, and all the advanced features needed for such a complex environment.
 
 From the beginning, I have witnessed the project's growth and its positive impact across Brazil. By 2016, AGHUse became the most widely adopted university hospital software in the country. In 2017, it received the Public Innovation Award from ENAP.
 
