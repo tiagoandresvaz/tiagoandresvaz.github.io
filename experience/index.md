@@ -90,30 +90,3 @@ As AI and Data Lead, I designed and built ISA — Infection Surveillance Assista
 Prior works and full portfolio details are available on my [LinkedIn profile](https://www.linkedin.com/in/tiagoandresvaz/).
 {{< /admonition >}}
 
-### Corporate Experience {#my-resume}
-
-- **KHC – Amsterdam Center of Excellence (2009–2022):** Led global projects unifying AI and data governance using advanced Stewardship and Data Quality tools. Collaborated with multidisciplinary teams across the US, Europe, and Asia within a Forbes 500 company.
-
-- **Hospital de Clínicas de Porto Alegre (2009–2022):** Led digital transformation and large-scale healthcare IT projects at one of Brazil's premier university hospitals, focusing on EHR implementation, data governance, and operational excellence.
-
-- **Bunge Ltd. (2003–2009):** Delivered technology solutions supporting logistics, supply chain, and business operations for a global agribusiness and food company.
-
-- **Claro Telecom S.A. (1999–2000):** Developed and maintained telecom systems for one of Brazil's largest telecommunications providers.
-
-- **Petróleo Ipiranga S.A. (1996–1997):** Supported IT infrastructure and business processes in the energy sector.
-
-### Technical Skills {#list-of-skills}
-
-1. Data Governance and Data Quality
-2. Artificial Intelligence (from research to product delivery)
-3. Machine Learning with Python
-4. Data Science engineering (ETL and large-scale data pipelines)
-5. AWS and Google Cloud administration
-6. PostgreSQL and MongoDB administration
-7. Software development with TypeScript and Node.js
-8. Epidemiology and biostatistics
-9. Agile, DevOps, containers, and cloud automation
-
-{{< admonition tip "Letters of recommendation" >}}
-Personal references and testimonials from teammates are available on LinkedIn.
-{{< /admonition >}}
