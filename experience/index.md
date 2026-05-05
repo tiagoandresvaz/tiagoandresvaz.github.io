@@ -1,27 +1,17 @@
 # Experience and Projects Done
 
-I hope that my readers here, are also creating amazing software!
+### Work Done {#work-samples}
 
-Here you will find:
+#### Federated Data Pipeline (CoVE — Covid Vaccines Effectiveness) {#covid-vaccines-effectiveness-cove}
 
-### Work samples
+[Utrecht University — Project Homepage](https://www.uu.nl/en/research/eu-pepv-research-network/effectiveness-of-heterologous-and-booster-covid-19-vaccination-in-5-european-countries)
 
-Some thumbs and videos that showcase my professional portfolio. 
+As Core Scientific Lead, I designed and delivered this international federated data project led by Utrecht University, involving multiple European partners to evaluate the effectiveness of heterologous and booster COVID-19 vaccination schedules in five countries. The research used a cohort approach covering both children and adults with a completed primary vaccination regimen.
 
-
-
-#### Covid Vaccines Effectiveness (CoVE) 
-
-https://www.uu.nl/en/research/eu-pepv-research-network/effectiveness-of-heterologous-and-booster-covid-19-vaccination-in-5-european-countries
-
-
-As Core Scientific Lead, I designed and coordinated this international project involving multiple European universities to evaluate the effectiveness of heterologous and booster COVID-19 vaccination schedules in five countries. Our research used a cohort approach, focusing on both children and adults who completed a full primary vaccination regimen.
-
-I led the development of a robust data pipeline, ensuring data from all partners adhered to a synthetic common data model and harmonized semantic libraries. This enabled consistent analysis and interpretation of health data across diverse international contexts.
+I led the development of a robust federated data pipeline, ensuring data from all partners adhered to a common data model and harmonised semantic concept libraries — enabling consistent, privacy-preserving analysis across diverse international contexts.
 
 **Participating Organisations:**
 - Utrecht University, The Netherlands (Consortium Lead)
-- AEMPS, Spain (Coordinator)
 - UMC Utrecht, The Netherlands
 - VAC4EU, Belgium
 - Democritus University of Thrace, Greece
@@ -38,121 +28,92 @@ I led the development of a robust data pipeline, ensuring data from all partners
 - Servicio Navarro de Salud, Spain
 - Teamit Institute, Spain
 - DSRU, UK
+- AEMPS, Spain (Coordinator)
 
 **Project Documentation:**
 - [Study Protocol (approved by the European Union)](https://catalogues.ema.europa.eu/sites/default/files/document_files/D2_StudyProtocol_v0.4_ROC12_FINAL_20220615.pdf)
-
 - [CoVE Project Repository (Zenodo)](https://zenodo.org/records/7858776)
 
 **Key Results:**
-- [Effectiveness of homologous/heterologous booster COVID-19 vaccination schedules against severe illness in general population and clinical subgroups in three European countries (PubMed)](https://pubmed.ncbi.nlm.nih.gov/37858451/)
+- [Effectiveness of homologous/heterologous booster COVID-19 vaccination schedules against severe illness (PubMed)](https://pubmed.ncbi.nlm.nih.gov/37858451/)
 
+#### Nursing Workload AI Classification {#wiley-pds-nursing-workload}
 
+[Read the full article](https://www.scielo.br/j/rlae/a/SPkGC5Hnmzhw5K4bftMvbmj/?lang=en)
 
-#### Covid-19 Scenarios (by Neherlab)
+As lead data scientist and co-author, I contributed to a peer-reviewed study on the use of artificial intelligence to develop a classification system for nursing workload in hospital settings. The research demonstrates how AI and data-driven approaches can support healthcare resource management and improve patient care.
 
-My contribution to the model, was to implement a new flux in the SIR model called "Palliative Flux". Coding models  with Python, amd UI with Typescript. React and Node.js. The model in Python was coded involving many kinds of statistics and complex epidemiology modelling. 
+**Key Focus Areas:**
+- Application of AI in healthcare operations
+- Nursing workload measurement and classification
+- Data-driven decision support for hospital management
+- Collaboration between clinical and data science teams
 
-To accomplish this, I had to set cloud environments (dev and production) with Continuous Integration and Delivery of software, so statisticians could work on local models.
+#### Covid-19 Scenarios (Neherlab) {#covid-19-scenarios-by-neherlab}
 
-Our environment was equipped with a data parser, to capture data from our local government dashboards and after processing than, I have customized the calculator to build specific scenarios for 26 local regions.
+Contributed to the Neherlab COVID-19 Scenarios model by implementing a new compartment in the SIR model — the "Palliative Flux" — modelling the transition of patients into palliative care. Implementation used Python for the statistical/epidemiological model and TypeScript (React, Node.js) for the UI.
 
-This was a work group with collaboration from statistics, medicine and computer science teachers from the federal university along with state authorities.
+Set up cloud environments (dev and production) with CI/CD pipelines so statisticians could run and validate models locally. Built a data parser to ingest real-time data from government dashboards and customised the calculator to generate specific scenarios for 26 local regions.
 
-References: 
-{{< link "https://www.covid19-scenarios.org" >}}
-
+Collaboration included statisticians, physicians, and computer science faculty from UFRGS alongside state health authorities.
 
 {{< youtube sv5T7MPKE5A >}}
 
-#### AGHUse (by Hospital de Clínicas de Porto Alegre)
-Co-author of the registered GPL software at INPI, AGHUse is a comprehensive EHR (Electronic Health Record) and ERP (Enterprise Resource Planning) system designed for healthcare providers of all types.
+#### AGHUse (Hospital de Clínicas de Porto Alegre) {#aghuse-by-hospital-de-clinicas-de-porto-alegre}
 
-I initiated the project and named it AGHUse together with the communications team. after the original AGHU "mother" project and the old AGH "father" project. As the original Technical Leader and later IT Executive, I led the rollout in a large 1,000-bed hospital, covering primary care, emergency, maternity, psychiatry, heart transplants, and all the advanced features needed for such a complex environment.
+Co-author of the registered GPL software at INPI (Brazil's National Industrial Property Institute). AGHUse is a comprehensive EHR (Electronic Health Record) and ERP (Enterprise Resource Planning) system designed for healthcare providers of all types and sizes.
 
-From the beginning, I have witnessed the project's growth and its positive impact across Brazil. By 2016, AGHUse became the most widely adopted university hospital software in the country. In 2017, it received the Public Innovation Award from ENAP.
+I initiated and named the project — after the original AGHU and the predecessor AGH — serving as main coordinator and lead for all developers. As original Technical Leader and later IT Executive, I led the rollout at a 1,000-bed hospital covering primary care, emergency, maternity, psychiatry, and heart transplants.
 
-Today, the project is maintained by the "Comunidade AGHUse," which includes partners such as UNICAMP, the Army, Air Force, local governments, and other universities.
+By 2016, AGHUse had become the most widely adopted university hospital software in Brazil. In 2017, it received the **Public Innovation Award from ENAP**. The project is now maintained by the "Comunidade AGHUse," which includes UNICAMP, the Brazilian Army, Air Force, local governments, and other universities.
 
 {{< youtube MZocqXWM-Ig >}}
 
-Hospital de Clínicas de Porto Alegre (+900 beds) was appointed by the federal government in 2009 as a blueprint for a digital healthcare business model. Now its software is shared across the country.
+Hospital de Clínicas de Porto Alegre (900+ beds) was appointed by the federal government in 2009 as a blueprint for a digital healthcare business model — its software is now in use nationwide.
 
-References: 
-{{< link "https://www.hcpa.edu.br" >}}
+#### AGHU (EBSERH — Empresa Brasileira de Serviços Hospitalares) {#aghu-by-ebserh}
 
-#### AGHU (by EBSERH - Empresa Brasileira de Servicos Hospitalares)
+AGHU is a complete EHR designed for federal university hospitals across all five regions of Brazil. As founding Technical Leader, I co-authored the source code in Java and later became the IT Executive responsible for rolling out the system across the first 23 hospitals — covering small, medium, and large institutions. The project is now maintained by EBSERH in partnership with a multi-university community.
 
-AGHU is a complete EHR (Electronic Health Record) designed to fit University Hospitals in all 5 regions from Brazil. 
+#### Infection Surveillance Assistant — ISA (Qualis Infectologia) {#infection-surveillance-assistant-by-qualis-infectologia}
 
-From South to North, I was the former Technical Leader, co-authored the source code in Java and latter became the IT Executive in charge for rolling out it on the first 23 hospitals, including small, medium and large hospitals. 
+As AI and Data Lead, I designed and built ISA — Infection Surveillance Assistant — an automated AI system running on Amazon AWS that helps hospitals streamline infection control and surveillance. The algorithm was validated against NHSN (National Healthcare Safety Network) definitions, achieving results comparable to manual expert review.
 
-Now the project is maintained by EBSERH in partnership with a community formed by multiple universities. 
-
-References: 
-{{< link "https://www.ebserh.br" >}}
-
-#### Infection Surveillance Assistant (by Qualis Infectologia)
-
-As head of AI and data expert, Ive build the AI mode to implement ISA - Infection Surveillance Assistant. Made by automated artificial intelligence running at Amazon AWS. Provides solutions for hospitals to revamp infection control. 
-
-In the future, we hope ISA will be an expert in infection related problems.
+**Published results:**
+- [Hospital-acquired infections surveillance: The machine-learning algorithm mirrors NHSN definitions — *Infection Control & Hospital Epidemiology*, 2024](https://doi.org/10.1017/ice.2023.224)
+- [Using Machine Learning to Reduce Burden on Infection Control Staff — *NEJM Catalyst*, 2022](https://doi.org/10.1056/cat.22.0071)
+- [Automated healthcare-associated infection surveillance using an AI algorithm — *Infection Prevention in Practice*, 2021](https://doi.org/10.1016/j.infpip.2021.100167)
 
 {{< youtube o4Nq3GmwRoM >}}
 
-References: 
-{{< link "https://www.portalqualis.com.br" >}}
-
-{{< admonition note "Special Motivation" >}}
-I've built this website to learn **Hugo** (the static website creator coded using "Go" language).
-
-This site is published at github.io, a free place to host web content like this!
-{{< /admonition >}}
-
-### My enterprise experience {#my-resume}
-
-Short description of my work at specific projects and job positions.
-
-**KHC – Amsterdam Center of Excellence (2009–2022):**  
-Working on global projects unifying AI and data governance using advanced Stewardship and Data Quality tools. Collaborating with multidisciplinary teams in the US, Europe and Asia in a leading Forbes 500 company.
-
-**Hospital de Clínicas de Porto Alegre (2009–2022):**  
-Led digital transformation and large-scale healthcare IT projects at one of Brazil’s premier university hospitals, focusing on EHR implementation, data governance, and operational excellence.
-
-**Bunge Ltd (2003–2009):**  
-Gained valuable experience in the agribusiness sector, working on technology solutions that supported logistics, supply chain, and business operations for a global food company.
-
-**Claro Telecom (1999–2000):**  
-Developed and maintained telecom systems, contributing to the growth and modernization of one of Brazil’s largest telecommunications providers.
-
-**Petroleo Ipiranga SA (1996–1997):**  
-Early career experience in the energy sector, supporting IT infrastructure and business processes for a major petroleum company.
-
-Experience with:
-
-1. Unified AI and Data Governance; 
-2. AI Product Design and Development;
-3. Software delivery, maintenance, and development;
-4. Enterprise change management;
-5. Leadership of technical teams and C level advisory;
-6. Negotiation with customers and suppliers;
-7. International partnerships;
-8. Consulting;
-9. Strategic Planning;
-10. Entrepreneurship;
-
 {{< admonition tip "More details and past works" >}}
---> Details about my CV are managed in my LinkedIn account!
+Prior works and full portfolio details are available on my [LinkedIn profile](https://www.linkedin.com/in/tiagoandresvaz/).
 {{< /admonition >}}
 
-{{< admonition tip "Activities" >}}
-Instead of a attendance list, I will give short comments about congresses, conferences and workshops that I am participating thru specific posts on twitter @tiagoandresvaz
-{{< /admonition >}}
+### Corporate Experience {#my-resume}
+
+- **KHC – Amsterdam Center of Excellence (2009–2022):** Led global projects unifying AI and data governance using advanced Stewardship and Data Quality tools. Collaborated with multidisciplinary teams across the US, Europe, and Asia within a Forbes 500 company.
+
+- **Hospital de Clínicas de Porto Alegre (2009–2022):** Led digital transformation and large-scale healthcare IT projects at one of Brazil's premier university hospitals, focusing on EHR implementation, data governance, and operational excellence.
+
+- **Bunge Ltd. (2003–2009):** Delivered technology solutions supporting logistics, supply chain, and business operations for a global agribusiness and food company.
+
+- **Claro Telecom S.A. (1999–2000):** Developed and maintained telecom systems for one of Brazil's largest telecommunications providers.
+
+- **Petróleo Ipiranga S.A. (1996–1997):** Supported IT infrastructure and business processes in the energy sector.
+
+### Technical Skills {#list-of-skills}
+
+1. Data Governance and Data Quality
+2. Artificial Intelligence (from research to product delivery)
+3. Machine Learning with Python
+4. Data Science engineering (ETL and large-scale data pipelines)
+5. AWS and Google Cloud administration
+6. PostgreSQL and MongoDB administration
+7. Software development with TypeScript and Node.js
+8. Epidemiology and biostatistics
+9. Agile, DevOps, containers, and cloud automation
 
 {{< admonition tip "Letters of recommendation" >}}
-Personal references and teammates testimonials are managed at LinkedIn. 
+Personal references and testimonials from teammates are available on LinkedIn.
 {{< /admonition >}}
-
-### Other Information 
-
-If you need additional information about accomplishments from my resume, we can have a coffee and have a nice talk by DM on Twitter: @tiagoandresvaz 
