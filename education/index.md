@@ -42,7 +42,7 @@ Lattes: http://lattes.cnpq.br/3125940334707048
 
 2. Impact and Effectiveness of COVID‐19 mRNA Vaccination Against COVID‐19 Hospitalisation in Paediatrics: A Cohort Study Using Two Linked Data Sources in Spain — *Pharmacoepidemiology and Drug Safety*, 2025. [DOI: 10.1002/pds.70239](https://doi.org/10.1002/pds.70239)
 
-3. Em Busca de uma Previsão Pragmática de Risco na Insuficiência Cardíaca — *Arquivos Brasileiros de Cardiologia*, 2025. [DOI: 10.36660/abc.20250685](https://doi.org/10.36660/abc.20250685)
+3. In Search of a Pragmatic Risk Prediction in Heart Failure — *Arquivos Brasileiros de Cardiologia*, 2025. [DOI: 10.36660/abc.20250685](https://doi.org/10.36660/abc.20250685)
 
 4. Real‐World Evidence BRIDGE: A Tool to Connect Protocol With Code Programming — *Pharmacoepidemiology and Drug Safety*, 2024. [DOI: 10.1002/pds.70062](https://doi.org/10.1002/pds.70062)
 
@@ -54,7 +54,7 @@ Lattes: http://lattes.cnpq.br/3125940334707048
 
 8. Hospital-acquired infections surveillance: The machine-learning algorithm mirrors National Healthcare Safety Network definitions — *Infection Control & Hospital Epidemiology*, 2024. [DOI: 10.1017/ice.2023.224](https://doi.org/10.1017/ice.2023.224)
 
-9. Carga de trabajo de enfermería: uso de inteligencia artificial para el desarrollo de modelo clasificador — *Revista Latino-Americana de Enfermagem*, 2024. [DOI: 10.1590/1518-8345.7131.4238](https://doi.org/10.1590/1518-8345.7131.4238)
+9. Nursing workload: use of artificial intelligence to develop a classifier model — *Revista Latino-Americana de Enfermagem*, 2024. [DOI: 10.1590/1518-8345.7131.4238](https://doi.org/10.1590/1518-8345.7131.4238)
 
 10. Carga de trabalho de enfermagem: uso de inteligência artificial para o desenvolvimento de modelo classificador — *Revista Latino-Americana de Enfermagem*, 2024. [DOI: 10.1590/1518-8345.7131.4240](https://doi.org/10.1590/1518-8345.7131.4240)
 
