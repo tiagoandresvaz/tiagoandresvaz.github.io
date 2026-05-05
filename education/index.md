@@ -84,6 +84,8 @@ Lattes: http://lattes.cnpq.br/3125940334707048
 
 Teaching Data Science and Engineering since 2015 as part of my actions towards the "He For She" collaboration, aiming to bring women to STEM at UFRGS (public university).
 
-Supervising PhD and Master students to achieve great results in their fields.
+Supervising PhD and Master students to achieve great results in their fields. A proud example is my partnership with **Profa. Ninon**, a former supervised student who went on to build a strong academic career — a concrete outcome of the commitment to bring talented women into data science and research.
+
+At UMC Utrecht, this same commitment continues. Working alongside exceptional women in data science, biostatistics, and clinical research has been one of the most rewarding aspects of my role there, reinforcing that diversity in science is not only a value but a driver of better results.
 
 If you need additional information about accomplishments from my resume, we can have a coffee or a nice talk by DM on Twitter: @tiagoandresvaz
