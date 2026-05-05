@@ -1,15 +1,9 @@
 # About Me
 
 
-{{< admonition tip >}}
-:(far fa-bookmark fa-fw): a few more words 
-{{< /admonition >}}
 
-I am married, 43 years old, two kids and living in the southern city of Porto Alegre, RS - Brazil.  
 
-Since my graduation in Computer Science I am motivated to keep my tech skill updated.
-
-Always interested in people, teams & talent management, marketing, automation, telecom, information security, enterprise software development and software migration projects. 
+I am an experienced data professional with proven results across complex business, technology, and scientific environments.
 
 ### About This Site
 
